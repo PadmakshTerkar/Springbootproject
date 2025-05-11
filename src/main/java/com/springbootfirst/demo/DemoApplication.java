@@ -2,7 +2,7 @@ package com.springbootfirst.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//Springboot Project
+//Springboot Project new project
 @SpringBootApplication
 public class DemoApplication {
 
